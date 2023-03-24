@@ -1,5 +1,8 @@
 # Dissertation in Mathematics
 
+[Benjamin Steiner Dissertation Final.pdf](https://github.com/BSteiner1/Dissertation/files/11062995/Benjamin.Steiner.Dissertation.Final.pdf)
+
+
 ## An Overview:
 - Analysis of the _Perceptron Algorithm_, [Rosenblatt (1958)](https://psycnet.apa.org/fulltext/1959-09865-001.pdf?auth_token=f91cd7ff37dd3ba81e90c6359e48e4dc544163be&returnUrl=https%3A%2F%2Fpsycnet.apa.org%2FdoiLanding%3Fdoi%3D10.1037%252Fh0042519), including the update rule and mistake bound.
 - A new _Greedy Perceptron_ with derived mistake bound and experimental comparison to the regular Perceptron.
